@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 6,
+      "taskName": "coding world",
+      "detail": "c++ for placements",
+      "status": true
+    },
+    {
+      "id": 7,
+      "taskName": "project viva",
+      "detail": "todolist crud operation",
+      "status": true
+    },
+    {
+      "id": 8,
+      "taskName": "bus travelling",
+      "detail": "bus-landran to kharar , kharar to morinda",
+      "status": false
+    },
+    {
+      "id": 9,
+      "taskName": "kamal",
+      "detail": "singh ji",
+      "status": true
+    }
+  ]
+}
